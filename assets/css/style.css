@@ -124,7 +124,7 @@ html, body {
   width: 250px;
   height: 250px;
   border: 0;
-  background-image: url(../img/foxx.png);
+  background-image: url(./img/foxx.png);
   align-items: center;
   /*border-radius: 69% 31% 31% 69% / 67% 30% 70% 33%;
   transform: translate(-50%, -50%) rotate(50deg);
